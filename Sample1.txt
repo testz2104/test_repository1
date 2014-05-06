@@ -2,4 +2,8 @@ Test Phase 1.
 
 Test Phase 2 - feature.
 
+<<<<<<< HEAD
 Test Phase 3 - master.
+=======
+Test Phase 3 - feature.
+>>>>>>> feature
