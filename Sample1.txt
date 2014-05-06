@@ -6,8 +6,6 @@ Test Phase 3 - master.
 
 Test Phase 3 - feature.
 
-<<<<<<< Updated upstream
 Test Phase 4 - online master branch.
-=======
+
 Test Phase 4 - master branch.
->>>>>>> Stashed changes
