@@ -17,3 +17,5 @@ Test Phase 5 - master local.
 Test Phase 6 - master online.
 
 Test Phase 6 - master local.
+
+Test Phase 7 - master local.
