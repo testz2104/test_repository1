@@ -5,5 +5,3 @@ Test Phase 2 - feature.
 Test Phase 3 - master.
 
 Test Phase 3 - feature.
-
-Test Phase 4 - master.
