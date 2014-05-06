@@ -13,3 +13,5 @@ Test Phase 4 - master branch.
 Test Phase 5 - master online.
 
 Test Phase 5 - master local.
+
+Test Phase 6 - master online.
